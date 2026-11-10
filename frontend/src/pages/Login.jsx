@@ -35,7 +35,7 @@ export default function Login() {
           <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-xl bg-brand-600 shadow-lg">
             <GraduationCap className="h-8 w-8 text-white" />
           </div>
-          <h1 className="text-2xl font-bold text-white">Institute Hub</h1>
+          <h1 className="text-2xl font-bold text-white">CampusSphere</h1>
           <p className="mt-1 text-sm text-slate-400">Sign in to the admin dashboard</p>
         </div>
 

@@ -27,7 +27,7 @@ export default function Layout({ children }) {
           <GraduationCap className="h-6 w-6" />
         </div>
         <div>
-          <p className="text-base font-bold text-white">Institute Hub</p>
+          <p className="text-base font-bold text-white">CampusSphere</p>
           <p className="text-xs text-slate-400">Management System</p>
         </div>
       </div>
